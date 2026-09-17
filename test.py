@@ -9,3 +9,4 @@ print(i)
 i[-1]='words'
 z= ' '.join(i)
 print(z)
+print('new changes')
